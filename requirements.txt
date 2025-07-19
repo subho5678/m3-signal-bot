@@ -1,0 +1,2 @@
+python-telegram-bot==20.0
+tradingview_ta==3.3.0
